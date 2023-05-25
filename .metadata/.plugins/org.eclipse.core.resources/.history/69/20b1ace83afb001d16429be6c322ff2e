@@ -1,0 +1,11 @@
+package imcArreglos;
+
+public class Inicio {
+
+    public static void main(String[] args) {
+    	imcArreglos misProcesos= new imcArreglos();s
+        misProcesos.menu();
+
+    }
+
+}
